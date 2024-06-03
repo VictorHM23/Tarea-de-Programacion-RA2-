@@ -38,11 +38,11 @@ una fila valida, hay empate.
    ```
 
 ```bash
-   ./server <puerto>
+   ./servidor <puerto>
    ```
 
 ```bash
-   ./client <ip> <puerto>
+   ./cliente <ip> <puerto>
    ```
 
 Ejemplo de la ejecución de los programas.
